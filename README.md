@@ -5,7 +5,7 @@ Demo được thực hiện bởi [Hải](https://github.com/haihndalatcowork) v
 
 # Chuẩn bị:
 * Cài đặt Nodejs: https://nodejs.org
-* Cài đặt Postman (đùng để kiểm tra API): https://www.getpostman.com
+* Cài đặt Postman (dùng để kiểm tra API): https://www.getpostman.com
 # Cài đặt demo
 Chạy lần lượt các lệnh sau để cài đặt source:
 ```
@@ -16,5 +16,5 @@ Cấu hình và kết nối database tại: [configs/db.js](configs/db.js)
 # Tài liệu tham khảo:
 * mysqljs: https://github.com/mysqljs/mysql
 * Tạo nhanh cơ sở dữ liệu MySQL tại [RemoteMySQL](https://remotemysql.com)
-* Tạo dữ liệu mẫu: [MySQL Example Tables](https://www.phpknowhow.com/extra/mysql-example-tables/)
+* Dữ liệu mẫu: [MySQL Example Tables](https://www.phpknowhow.com/extra/mysql-example-tables/)
 
